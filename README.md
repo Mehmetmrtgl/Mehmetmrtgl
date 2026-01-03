@@ -25,8 +25,8 @@ I'm a software engineer focused on **Robotics** and **LLM**. Most of my time is 
 ### Stats
 
 <p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mehmetmrtgl&show_icons=true&theme=tokyonight&hide_border=true" alt="Mehmet's Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmetmrtgl&layout=compact&theme=tokyonight&hide_border=true" alt="Mehmet's Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehmetmrtgl&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmetmrtgl&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
