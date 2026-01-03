@@ -22,13 +22,6 @@ I'm a software engineer focused on **Robotics** and **LLM**. Most of my time is 
 
 ---
 
-### Stats
-
-![Mehmet's Stats](https://github-readme-stats.vercel.app/api?username=Mehmetmrtgl&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Mehmet's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmetmrtgl&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/mehmet-muratoglu0) | [Email](mailto:mehmetmrt1999@gmail.com)
